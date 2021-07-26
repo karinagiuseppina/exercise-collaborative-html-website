@@ -4,7 +4,7 @@ Practice your skills in GIT while developing a typical website.
 
 Each student works on a different file, for a different part of the website and the most senior can work as Team Leader (for integration and deployment), unless the teacher prefers to be the team leader of the whole class. The Html-Template-Engine library will take care of putting all the pieces together.
 
-## 📝 Instructions
+## 📝 Instructions*
 
 <img align="right" height="400" src="https://github.com/breatheco-de/exercise-collaborative-html-website/blob/master/website1/designs/guide.jpg?raw=true" />
 
